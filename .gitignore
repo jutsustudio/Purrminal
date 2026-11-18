@@ -1,0 +1,6 @@
+Purrminal.app/
+dist/
+/Purrminal
+drafts/*
+!drafts/cat-*.png
+.DS_Store
